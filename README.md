@@ -1,1 +1,1 @@
-ChiangHongJuin_Week2_Task
+Identify three househole items using trained yolo model in real-time
